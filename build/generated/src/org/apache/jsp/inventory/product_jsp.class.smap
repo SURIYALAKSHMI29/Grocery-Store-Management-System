@@ -1,0 +1,13 @@
+SMAP
+product_jsp.java
+JSP
+*S JSP
+*F
++ 0 product.jsp
+inventory/product.jsp
+*L
+1,22:45
+22,179:67
+201:246,3
+202,17:249
+*E

@@ -11,7 +11,6 @@ The system has a user-friendly front end built with HTML, CSS, and JavaScript, w
 - [Installation](#installation)
 - [Usage](#usage)
 - [Database Schema](#database-schema)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -92,5 +91,7 @@ The database schema includes tables for:
 
 For detailed information, refer to the SQL script in the database folder.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 **Thank you for using the Grocery Store Management System! If you have any questions or feedback, feel free to open an issue or contact.**

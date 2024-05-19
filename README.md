@@ -89,7 +89,7 @@ The database schema includes tables for:
 + Employees: Stores employee details.
 + Retailers: Contains information about product suppliers.
 
-For detailed information, refer to the SQL script in the database folder.
+For detailed information, refer to the SQL script in the database folder or refer the ER diagram provided.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.

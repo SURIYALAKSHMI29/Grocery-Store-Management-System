@@ -94,7 +94,7 @@ For detailed information, refer to the SQL script in the database folder or refe
 ## License
 © 2024 Suriya Lakshmi M. All rights reserved.
 
-Permission is granted to use this software for **personal, non-commercial** purposes only. Redistribution, modification, or commercial use of this software is prohibited without explicit written consent from the author.
+Permission is granted to use this software for **personal, non-commercial** purposes only. Redistribution, modification, or commercial use of this software is prohibited without prior approval from the author.
 
 For commercial inquiries, please contact: suriyalakshmi413@gmail.com.
 

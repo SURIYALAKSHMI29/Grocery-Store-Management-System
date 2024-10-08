@@ -92,7 +92,11 @@ The database schema includes tables for:
 For detailed information, refer to the SQL script in the database folder or refer the ER diagram provided.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+© 2024 Suriya Lakshmi M. All rights reserved.
+
+Permission is granted to use this software for **personal, non-commercial** purposes only. Redistribution, modification, or commercial use of this software is prohibited without explicit written consent from the author.
+
+For commercial inquiries, please contact: suriyalakshmi413@gmail.com.
 
 
 **Thank you for using the Grocery Store Management System! If you have any questions or feedback, feel free to open an issue or contact.**

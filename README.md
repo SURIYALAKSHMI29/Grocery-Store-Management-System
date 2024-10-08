@@ -65,7 +65,7 @@ To set up this project locally, follow these steps:
 
 5. **Access the application:**
 
-- Open your web browser and navigate to http://localhost:8080/grocery-store-management-system.
+- Open your web browser and navigate to http://localhost:8080/Grocery_store_management/login.jsp.
 
 ## Usage
 

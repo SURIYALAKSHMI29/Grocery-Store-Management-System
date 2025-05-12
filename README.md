@@ -92,11 +92,13 @@ The database schema includes tables for:
 For detailed information, refer to the SQL script in the database folder or refer the ER diagram provided.
 
 ## License
-© 2024 Suriya Lakshmi M. All rights reserved.
+© 2024 Suriya Lakshmi M & Harsha Vardhini K. All rights reserved.
 
-Permission is granted to use this software for **personal, non-commercial** purposes only. Redistribution, modification, or commercial use of this software is prohibited without prior approval from the author.
+Permission is granted to use this software for **personal, non-commercial** purposes only. Redistribution, modification, or commercial use of this software is prohibited without prior approval from the authors.
 
-For commercial inquiries, please contact: suriyalakshmi413@gmail.com.
-
+For commercial inquiries, please contact:  
+- Suriya Lakshmi M: suriyalakshmi413@gmail.com  
+- Harsha Vardhini K: harshavardhini1122@gmail.com 
 
 **Thank you for using the Grocery Store Management System! If you have any questions or feedback, feel free to open an issue or contact.**
+

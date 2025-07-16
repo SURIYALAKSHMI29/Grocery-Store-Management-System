@@ -50,8 +50,7 @@
            
             <ul id="todo-list">
                 <h4>Electricity bill- 1st may to 10th may<br><br>
-                Inventory items reinstalled @4th april,2024</h4>           
-    <!-- Todo items will be dynamically added here -->
+                Inventory items reinstalled @4th april,2024</h4>  
             </ul>
              <div>
                    <input type="text" id="todo-input" placeholder="Enter a new todo"> 

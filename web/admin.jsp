@@ -66,29 +66,29 @@
       
  <script>
           function addTodo() {
-  var todoInput = document.getElementById("todo-input");
-  var todoText = todoInput.value.trim();
-  
-  if (todoText === "") {
-    alert("Please enter a todo.");
-    return;
-  }
-  
-  var todoList = document.getElementById("todo-list");
-  var todoItem = document.createElement("h4");
-  todoItem.textContent = todoText;
-  
-  var deleteButton = document.createElement("button");
-  deleteButton.textContent = "Delete";
-  deleteButton.onclick = function() {
-    todoList.removeChild(todoItem);
-  };
-  
-  todoItem.appendChild(deleteButton);
-  todoList.appendChild(todoItem);
-  
-  todoInput.value = "";
-}
+              var todoInput = document.getElementById("todo-input");
+              var todoText = todoInput.value.trim();
+              
+              if (todoText === "") {
+                alert("Please enter a todo.");
+                return;
+              }
+              
+              var todoList = document.getElementById("todo-list");
+              var todoItem = document.createElement("h4");
+              todoItem.textContent = todoText;
+              
+              var deleteButton = document.createElement("button");
+              deleteButton.textContent = "Delete";
+              deleteButton.onclick = function() {
+                todoList.removeChild(todoItem);
+              };
+              
+              todoItem.appendChild(deleteButton);
+              todoList.appendChild(todoItem);
+              
+              todoInput.value = "";
+            }
 </script>
 </body>
 </html>
